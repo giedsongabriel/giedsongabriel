@@ -14,11 +14,11 @@ jobs:
 
     steps:
       - name: Generate snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            "dist/github-snake.svg?color_snake=%23ff0000&color_dots=%23161616,%23242424,%23333333,%23424242,%23525252"
+            dist/github-snake.svg?color_snake=#ff0000&color_dots=#161616,#242424,#333333,#424242,#525252
 
       - name: Publish
         uses: crazy-max/ghaction-github-pages@v5
