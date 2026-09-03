@@ -1,8 +1,7 @@
 <div align="center">
-
 <h1>Opa</h1>
-Estudante de TI & amante de jogos
-<br>
+  
+<h3></h3>Sou estudante de TI & amante de jogos</h3>
 <br>
 <h2>Sei mexer:</h2>
 
@@ -10,7 +9,7 @@ Estudante de TI & amante de jogos
   <img src="https://skillicons.dev/icons?i=css" width="50" />
   <img src="https://skillicons.dev/icons?i=js" width="50" />
   <img src="https://skillicons.dev/icons?i=python" width="50" />
-    <img src="https://skillicons.dev/icons?i=godot" width="50" />
+  <img src="https://skillicons.dev/icons?i=godot" width="50" />
   <img src="https://skillicons.dev/icons?i=pr" width="50" />
 
 <br>
