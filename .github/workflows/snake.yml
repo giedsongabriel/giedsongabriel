@@ -1,19 +1,20 @@
-
 name: Generate snake game
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Generate snake
     runs-on: ubuntu-latest
+
     steps:
-      # Snake Animation
       - uses: Sutil/snk@master
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake2.svg
@@ -25,4 +26,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
