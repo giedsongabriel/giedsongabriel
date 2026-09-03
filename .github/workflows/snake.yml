@@ -7,6 +7,9 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
 
     steps:
@@ -18,7 +21,7 @@ jobs:
             dist/github-snake.svg?palette=github-dark&color_snake=39ff14
 
       - name: Publish animation
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
