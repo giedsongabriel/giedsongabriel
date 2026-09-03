@@ -10,9 +10,8 @@
 
 ### ╭─────────────── ◈ ───────────────╮
 
-###     SEI MEXER
+###     SEI MEXER:
 
-### ╰─────────────── ◈ ───────────────╯
 
 <br>
 
@@ -41,19 +40,17 @@
 
 ### ╭─────────────── ◈ ───────────────╮
 
-###      MINHAS REDES
+###      MINHAS REDES:
 
-### ╰─────────────── ◈ ───────────────╯
 
 <br>
 <div>
-<a href="https://discord.com/users/484496986947715072">
-  <img src="https://skillicons.dev/icons?i=discord" width="45">
-</a>
-  
-<a href="https://www.instagram.com/gn_gabriell/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45">
-</a>
+  <a href="https://discord.com/users/484496986947715072" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/gn_gabriell/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 <br><br>
 
