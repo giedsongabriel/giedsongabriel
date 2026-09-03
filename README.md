@@ -10,6 +10,7 @@
   <img src="https://skillicons.dev/icons?i=js" width="50" />
   <img src="https://skillicons.dev/icons?i=python" width="50" />
   <img src="https://skillicons.dev/icons?i=godot" width="50" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" width="50" />
   <img src="https://skillicons.dev/icons?i=pr" width="50" />
 
 <br>
